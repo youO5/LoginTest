@@ -3,6 +3,7 @@ package Diary;
 import java.awt.*;
 import javax.swing.*;
 //예시
+//05가 바꾼거
 public class FrameManager extends JFrame {
     void createJLabel(Container c,JLabel obj,String name, int sx, int sy, int dx,int dy,Font f)
    {
