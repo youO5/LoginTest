@@ -1,7 +1,7 @@
 package Diary;
 
 public class LoginVo {
-
+//·Î±×ÀÎ VO 
     public static Object logdata;
 	private String ID;
     private String PW;
