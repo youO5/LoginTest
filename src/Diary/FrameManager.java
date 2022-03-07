@@ -2,7 +2,7 @@ package Diary;
 
 import java.awt.*;
 import javax.swing.*;
-
+//¿¹½Ã
 public class FrameManager extends JFrame {
     void createJLabel(Container c,JLabel obj,String name, int sx, int sy, int dx,int dy,Font f)
    {
